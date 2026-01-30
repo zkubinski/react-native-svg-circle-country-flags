@@ -16,13 +16,13 @@ const SvgIt75 = (props: SvgProps) => (
       </Mask>
     </Defs>
     <G mask="url(#it-75_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0V0Z" />
+      <Path fill="#fff" d="M0 0h512v512H0V0Z" />
       <Path
         fill="#338af3"
         d="M208 408a64 64 0 0 1-64-64v-1.6l4.8-54.4-4.8-38.4V184h65.6l46.4 3 46.4-3H368v65.6l-3.5 50.6 3.5 42.2v1.6a64 64 0 0 1-64 64"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M352 335.8 295.8 392h-79.6L160 335.8v-79.6l56.2-56.2h79.6l56.2 56.2v79.6z"
       />
       <Path fill="#ffda44" d="M144 152h224v32H144z" />

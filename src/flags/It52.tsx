@@ -16,7 +16,7 @@ const SvgIt52 = (props: SvgProps) => (
       </Mask>
     </Defs>
     <G mask="url(#it-52_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0V0Z" />
+      <Path fill="#fff" d="M0 0h512v512H0V0Z" />
       <Path fill="#d80027" d="M0 392h512v48.3H0zM0 79.7h512V128H0z" />
       <Path
         fill="#acabb1"

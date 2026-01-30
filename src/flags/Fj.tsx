@@ -9,12 +9,12 @@ const SvgFj = (props: SvgProps) => (
     <G mask="url(#fj_svg__a)">
       <Path fill="#338af3" d="M256 0h256v512H0V256Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0v32l32 32L0 96v160h32l32-32 32 32h32l42-16 41 16h45l-8-16 8-15v-14l-16-42 16-41V96l-32-32 32-32V0H96L64 32 32 0Z"
       />
       <Path fill="#0052b4" d="M128 256v-83l83 83zm128-45-83-83h83z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m367.3 144.7-78 22.3h.1v66.7l9.2 11-9.2 11.3c0 45.5 45.3 67 66.8 74.6l11.5-8.8 10.7 8.8c21.5-7.7 66.8-29.1 66.8-74.6l-8-11 8-11.3V167Z"
       />
       <Path

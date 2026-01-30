@@ -14,7 +14,7 @@ const SvgMm = (props: SvgProps) => (
       <Path fill="#ffda44" d="M0 0h512v167H0z" />
       <Path fill="#d80027" d="M0 345h512v167H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M431.5 216.5h-134L256 89l-41.4 127.6h-134l108.3 78.8L147.5 423 256 345l108.5 78-41.4-127.6z"
       />
     </G>

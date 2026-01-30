@@ -9,7 +9,7 @@ const SvgOr = (props: SvgProps) => (
     <G mask="url(#or_svg__a)">
       <Path fill="#ffda44" d="m0 160 256-32 256 32v192l-256 32L0 352Z" />
       <Path fill="#d80027" d="M0 0h512v160H0Z" />
-      <Path fill="#eee" d="M0 352h512v160H0Z" />
+      <Path fill="#fff" d="M0 352h512v160H0Z" />
     </G>
   </Svg>
 );

@@ -7,14 +7,14 @@ const SvgKikuyu = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#kikuyu_svg__a)">
-      <Path fill="#eee" d="m228 0 32 211-32 211h-32l-32-211L196 0Z" />
+      <Path fill="#fff" d="m228 0 32 211-32 211h-32l-32-211L196 0Z" />
       <Path fill="#496e2d" d="M196 0v450H0V0Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m178 87-31-14-49 112L49 73 18 87l62 138-62 138 31 14 49-112 49 112 31-14-62-138Z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M98 80 81 96 65 224l16 130 17 16 17-16 15-131-15-127-17-16Z"
       />
       <Path

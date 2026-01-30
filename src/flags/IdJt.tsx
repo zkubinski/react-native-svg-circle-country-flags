@@ -12,7 +12,7 @@ const SvgIdJt = (props: SvgProps) => (
         fill="#d80027"
         d="m256 114-6 2-95 78c-4 3-4 9-1 13l102-33 102 33c3-4 3-10-1-13l-95-78-6-2z"
       />
-      <Path fill="#eee" d="M278 231h-1zm-43 0z" />
+      <Path fill="#fff" d="M278 231h-1zm-43 0z" />
       <Path
         fill="#6da544"
         d="m256 134-99 72 6 22 51-32 42 25 42-25 51 32 6-22z"
@@ -23,7 +23,7 @@ const SvgIdJt = (props: SvgProps) => (
       />
       <Path fill="#338af3" d="m183 290 11 32h124l11-32h-73z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M256 129a4 4 0 0 0-2 1l-100 73a4 4 0 0 0-2 4l38 117a4 4 0 0 0 4 3h124a4 4 0 0 0 4-3l38-117a4 4 0 0 0-2-4l-100-73a4 4 0 0 0-2-1zm0 9 95 70-36 111H197l-36-111 95-70z"
       />
       <Rect
@@ -49,7 +49,7 @@ const SvgIdJt = (props: SvgProps) => (
         height={24}
         x={176}
         y={350}
-        fill="#eee"
+        fill="#fff"
         rx={12}
         ry={12}
       />

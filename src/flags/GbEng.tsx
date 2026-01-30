@@ -8,7 +8,7 @@ const SvgGbEng = (props: SvgProps) => (
     </Mask>
     <G mask="url(#gb-eng_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h208l48 32 48-32h208v208l-32 48 32 48v208H304l-48-32-48 32H0V304l32-48-32-48Z"
       />
       <Path

@@ -8,10 +8,10 @@ const SvgPt20 = (props: SvgProps) => (
     </Mask>
     <G mask="url(#pt-20_svg__a)">
       <Path fill="#0052b4" d="M0 512h189.2l41.4-256L189.2 0H0z" />
-      <Path fill="#eee" d="M189.2 0H512v512H189.2z" />
+      <Path fill="#fff" d="M189.2 0H512v512H189.2z" />
       <Path fill="#d80027" d="M91.8 89v41.8a37.6 37.6 0 1 0 75.2 0V89z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M129.4 146c-8.4 0-15.3-6.8-15.3-15.2v-19.5h30.6v19.5c0 8.4-6.9 15.3-15.3 15.3z"
       />
       <Path

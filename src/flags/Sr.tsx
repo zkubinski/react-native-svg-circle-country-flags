@@ -12,7 +12,7 @@ const SvgSr = (props: SvgProps) => (
         d="M0 0h512v111.3l-85.3 143.1L512 400.7V512H0V400.7l87-149L0 111.3z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 111.3h512V167l-41 84.7 41 93.3v55.7H0V345l44.2-86.6L0 167z"
       />
       <Path fill="#a2001d" d="M0 167h512v178H0z" />

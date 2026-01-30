@@ -8,7 +8,7 @@ const SvgNorthernCyprus = (props: SvgProps) => (
     </Mask>
     <G mask="url(#northern_cyprus_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0v48l32 24L0 96v320l32 24-32 24v48h512v-48l-32-24 32-24V96l-32-24 32-24V0Z"
       />
       <Path

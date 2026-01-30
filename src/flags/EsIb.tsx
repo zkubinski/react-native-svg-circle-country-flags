@@ -17,7 +17,7 @@ const SvgEsIb = (props: SvgProps) => (
       />
       <Path fill="#4a1f63" d="M0 0h256v256H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M211.5 133.6v22.2h-11.2v-22.2h-22.2v22.2H167v-44.5h-44.6v44.5h-11v-22.2H89v22.2H78v-22.2H55.6v66.7h178v-66.7z"
       />
     </G>

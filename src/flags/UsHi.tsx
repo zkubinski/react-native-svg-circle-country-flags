@@ -8,7 +8,7 @@ const SvgUsHi = (props: SvgProps) => (
     </Mask>
     <G mask="url(#us-hi_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 256V96l32-32L0 32V0h32l32 32L96 0h416v64l-32 64 32 64v64l-32 64 32 64v64l-256 32L0 448v-64l32-64z"
       />
       <Path

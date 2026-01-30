@@ -8,7 +8,7 @@ const SvgUsDc = (props: SvgProps) => (
     </Mask>
     <G mask="url(#us-dc_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h512v186l-64 48 64 48v57l-64 48 64 48v77H0v-77l64-48-64-48v-57l64-48-64-48Z"
       />
       <Path

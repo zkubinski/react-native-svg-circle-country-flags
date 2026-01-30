@@ -11,9 +11,9 @@ const SvgBz = (props: SvgProps) => (
         fill="#0052b4"
         d="m0 44.5 257.8-23.7L512 44.5v423l-252.5 26L0 467.5z"
       />
-      <Circle cx={256} cy={256} r={122.4} fill="#eee" />
+      <Circle cx={256} cy={256} r={122.4} fill="#fff" />
       <Circle cx={256} cy={256} r={100.2} fill="#6da544" />
-      <Circle cx={256} cy={256} r={66.8} fill="#eee" />
+      <Circle cx={256} cy={256} r={66.8} fill="#fff" />
       <Path
         fill="#0052b4"
         d="M256 239.3 219.8 256v27.8l36.2 22.3 36.2-22.3V256z"

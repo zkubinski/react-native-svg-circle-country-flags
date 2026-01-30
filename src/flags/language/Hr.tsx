@@ -7,7 +7,7 @@ const SvgHr = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#hr_svg__a)">
-      <Path fill="#eee" d="m0 167 253.8-19.3L512 167v178l-254.9 32.3L0 345z" />
+      <Path fill="#fff" d="m0 167 253.8-19.3L512 167v178l-254.9 32.3L0 345z" />
       <Path fill="#d80027" d="M0 0h512v167H0z" />
       <Path fill="#0052b4" d="M0 345h512v167H0z" />
       <Path
@@ -16,7 +16,7 @@ const SvgHr = (props: SvgProps) => (
       />
       <Path fill="#0052b4" d="M285.7 178h-59.4v-55.7l29.7-22.2 29.7 22.2z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M167 167v122.3a89 89 0 0 0 35.8 71.3l15.5-3.9 19.7 19.8a89.1 89.1 0 0 0 18 1.8 89 89 0 0 0 17.9-1.8l22.4-18.7 13 2.8a89 89 0 0 0 35.7-71.3V167z"
       />
       <Path

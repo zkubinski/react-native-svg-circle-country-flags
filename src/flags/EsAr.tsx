@@ -20,7 +20,7 @@ const SvgEsAr = (props: SvgProps) => (
         d="M96 128v160l96 96c53 0 96-43 96-96l-48-48 48-48v-64h-28v32h-27v-32h-27v32h-28v-32h-27v32h-28v-32z"
       />
       <Path fill="#0052b4" d="M192 192h96v96h-96z" />
-      <Path fill="#eee" d="M192 288v96a96 96 0 0 1-96-96Z" />
+      <Path fill="#fff" d="M192 288v96a96 96 0 0 1-96-96Z" />
     </G>
   </Svg>
 );

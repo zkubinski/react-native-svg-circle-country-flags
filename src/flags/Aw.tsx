@@ -16,7 +16,7 @@ const SvgAw = (props: SvgProps) => (
         d="M0 0h512v322.8H0zm0 356.2h512v33.4H0zM0 423h512v89H0z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m117.3 161.5-50-22.1 50-22 22-50.1 22.2 50 50 22-50 22.2-22.1 50z"
       />
       <Path

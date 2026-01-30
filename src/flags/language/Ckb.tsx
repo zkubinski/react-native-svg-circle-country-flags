@@ -8,7 +8,7 @@ const SvgCkb = (props: SvgProps) => (
     </Mask>
     <G mask="url(#ckb_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 144.7 257-22.4 255 22.4v222.6l-254.9 31L0 367.3z"
       />
       <Path fill="#d80027" d="M0 0h512v144.7H0z" />

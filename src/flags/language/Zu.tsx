@@ -8,7 +8,7 @@ const SvgZu = (props: SvgProps) => (
     </Mask>
     <G mask="url(#zu_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 0 192 256L0 512h47l465-189v-34l-32-33 32-33v-34L47 0Z"
       />
       <Path fill="#333" d="M0 142v228l140-114z" />

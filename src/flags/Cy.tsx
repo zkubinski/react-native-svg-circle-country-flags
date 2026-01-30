@@ -7,7 +7,7 @@ const SvgCy = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#cy_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0z" />
+      <Path fill="#fff" d="M0 0h512v512H0z" />
       <Path
         fill="#6da544"
         d="M400.7 222.6h-33.4a111.3 111.3 0 0 1-222.6 0h-33.4c0 66.2 44.5 122 105.2 139.2a37 37 0 0 0 3.9 40.5l36.3-29.2 36.4 29.2a37 37 0 0 0 3.7-40.8 144.8 144.8 0 0 0 103.9-138.9z"

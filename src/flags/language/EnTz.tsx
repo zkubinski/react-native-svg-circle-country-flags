@@ -15,7 +15,7 @@ const SvgEnTz = (props: SvgProps) => (
       <Path fill="#338af3" d="M512 113 313 313l67 131 132 68Z" />
       <Path fill="#6da544" d="m0 0 68 132 132 68L399 0Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M512 512 0 0l8 23-8 22v23l32 54-32 54v32l32 48-32 48v32l32 54-32 54v68l22-8 23 8h23l54-32 54 32h32l48-32 48 32h32l54-32 54 32z"
       />
       <Path

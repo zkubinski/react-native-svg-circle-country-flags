@@ -7,11 +7,11 @@ const SvgEnIe = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#en-ie_svg__a)">
-      <Path fill="#eee" d="m167 0-32 172 32 173 121-57 57-121 32-84-32-83Z" />
+      <Path fill="#fff" d="m167 0-32 172 32 173 121-57 57-121 32-84-32-83Z" />
       <Path fill="#6da544" d="M0 0v512l115-52 52-115V0Z" />
       <Path fill="#ff9811" d="M345 0v167l115-52L512 0Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M512 0 0 512l23-8 22 8h23l54-32 54 32h32l48-32 48 32h32l54-32 54 32h68l-8-22 8-23v-23l-32-54 32-54v-32l-32-48 32-48v-32l-32-54 32-54z"
       />
       <Path

@@ -7,7 +7,7 @@ const SvgInMz = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#in-mz_svg__a)">
-      <Path fill="#eee" d="M0 0h512v256l-256 32L0 256Z" />
+      <Path fill="#fff" d="M0 0h512v256l-256 32L0 256Z" />
       <Path fill="#338af3" d="M0 256h512v256H0Z" />
       <Circle cx={256} cy={256} r={128} fill="#d80027" />
     </G>

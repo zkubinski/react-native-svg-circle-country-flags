@@ -23,7 +23,7 @@ const SvgIt42 = (props: SvgProps) => (
       <Path fill="#338af3" d="M512 0v512H345.1V0H512Z" />
       <Path fill="#6da544" d="M167.1 0v512H0V0h167.1Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M256 144c44.2 0 80 17.9 80 40v88H176v-88c0-22.1 35.8-40 80-40Z"
       />
       <Path

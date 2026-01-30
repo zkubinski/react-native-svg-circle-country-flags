@@ -7,7 +7,7 @@ const SvgId = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#id_svg__a)">
-      <Path fill="#eee" d="m0 256 249.6-41.3L512 256v256H0z" />
+      <Path fill="#fff" d="m0 256 249.6-41.3L512 256v256H0z" />
       <Path fill="#a2001d" d="M0 0h512v256H0z" />
     </G>
   </Svg>

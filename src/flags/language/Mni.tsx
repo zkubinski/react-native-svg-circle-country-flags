@@ -8,7 +8,7 @@ const SvgMni = (props: SvgProps) => (
     </Mask>
     <G mask="url(#mni_svg__a)">
       <Path fill="#d80027" d="M0 0h512v73L256 96 0 73Z" />
-      <Path fill="#eee" d="M0 73h512v73l-256 23L0 146Z" />
+      <Path fill="#fff" d="M0 73h512v73l-256 23L0 146Z" />
       <Path fill="#333" d="M0 146h512v73l-256 23L0 219Z" />
       <Path fill="#ffda44" d="M0 219h512v74l-256 22L0 293Z" />
       <Path fill="#4a1f63" d="M0 293h512v73l-256 23L0 366Z" />

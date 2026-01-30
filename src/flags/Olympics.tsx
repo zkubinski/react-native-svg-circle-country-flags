@@ -7,7 +7,7 @@ const SvgOlympics = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#olympics_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0z" />
+      <Path fill="#fff" d="M0 0h512v512H0z" />
       <Path
         fill="#338af3"
         d="M109.6 153.1A71.8 71.8 0 0 0 38 224.7a71.8 71.8 0 0 0 71.6 71.6 71.8 71.8 0 0 0 71.6-71.6 71.8 71.8 0 0 0-71.6-71.6zm0 20c28.6 0 51.6 23 51.6 51.6s-23 51.6-51.6 51.6-51.6-23-51.6-51.6 23-51.6 51.6-51.6z"

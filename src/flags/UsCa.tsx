@@ -7,7 +7,7 @@ const SvgUsCa = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#us-ca_svg__a)">
-      <Path fill="#eee" d="M0 0h512v416l-256 32L0 416Z" />
+      <Path fill="#fff" d="M0 0h512v416l-256 32L0 416Z" />
       <Path fill="#6da544" d="m396 280-67-8-34 3-24-2-54-2-93 13-8 12h299z" />
       <Path
         fill="#584528"

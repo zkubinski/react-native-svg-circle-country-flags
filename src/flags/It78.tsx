@@ -17,7 +17,7 @@ const SvgIt78 = (props: SvgProps) => (
     </Defs>
     <G mask="url(#it-78_svg__a)">
       <Path fill="#0052b4" d="M0 0h512v512H0V0Z" />
-      <Circle cx={256} cy={256} r={160} fill="#eee" />
+      <Circle cx={256} cy={256} r={160} fill="#fff" />
       <Path
         fill="#ffda44"
         d="M357.8 357.8a144 144 0 0 1-203.6 0L256 256l101.8 101.8ZM154.2 154.2a144 144 0 0 1 203.6 0L256 256 154.2 154.2Z"

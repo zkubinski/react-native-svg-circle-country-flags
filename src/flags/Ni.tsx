@@ -11,7 +11,7 @@ const SvgNi = (props: SvgProps) => (
         fill="#338af3"
         d="M0 0h512v144.7l-41.4 111.7L512 367.3V512H0V367.3l41.5-107.9L0 144.7z"
       />
-      <Path fill="#eee" d="M0 144.7h512v222.6H0z" />
+      <Path fill="#fff" d="M0 144.7h512v222.6H0z" />
       <Path
         fill="#ffda44"
         d="M256 178a78 78 0 1 0 0 156 78 78 0 0 0 0-156zm0 122.5a44.5 44.5 0 1 1 0-89 44.5 44.5 0 0 1 0 89z"

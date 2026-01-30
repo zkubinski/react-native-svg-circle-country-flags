@@ -9,7 +9,7 @@ const SvgAi = (props: SvgProps) => (
     <G mask="url(#ai_svg__a)">
       <Path fill="#0052b4" d="M256 0h256v512H0V256Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0v32l32 32L0 96v160h32l32-32 32 32h32v-83l83 83h45l-8-16 8-15v-14l-83-83h83V96l-32-32 32-32V0H96L64 32 32 0Z"
       />
       <Path
@@ -18,7 +18,7 @@ const SvgAi = (props: SvgProps) => (
       />
       <Path fill="#496e2d" d="M445.2 256.1zm-155.8 0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M433 293.6a62.4 62.4 0 0 0 12.2-37.5V144.8a55.4 55.4 0 0 1-33.4 11.1 55.6 55.6 0 0 1-44.5-22.2 55.6 55.6 0 0 1-44.5 22.2 55.4 55.4 0 0 1-33.4-11.1v111.3c0 15 5 27.3 12.3 37.5h131.2z"
       />
       <Path

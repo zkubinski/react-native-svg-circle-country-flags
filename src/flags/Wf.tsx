@@ -8,11 +8,11 @@ const SvgWf = (props: SvgProps) => (
     </Mask>
     <G mask="url(#wf_svg__a)">
       <Path fill="#d80027" d="M256 0h256v512H0V256Z" />
-      <Path fill="#eee" d="M0 0h256v256H0Z" />
+      <Path fill="#fff" d="M0 0h256v256H0Z" />
       <Path fill="#0052b4" d="M0 0h75v224H0Z" />
       <Path fill="#d80027" d="M149 0h75v224h-75z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m384 232-72-72h144zm-24 24-72-72v144zm24 24-72 72h144zm24-24 72-72v144z"
       />
     </G>

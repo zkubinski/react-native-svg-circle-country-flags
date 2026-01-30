@@ -8,7 +8,7 @@ const SvgEnZa = (props: SvgProps) => (
     </Mask>
     <G mask="url(#en-za_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 0 192 256L45 512h23l54-32 54 32h32l48-32 48 32h32l54-32 54 32h68l-8-22 8-23v-23l-32-54 32-54v-32l-32-48 32-48v-32l-32-54 32-54V0L280 157 47 0Z"
       />
       <Path fill="#333" d="M0 142v228l140-114z" />

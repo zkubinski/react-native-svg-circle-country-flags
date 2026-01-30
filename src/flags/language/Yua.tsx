@@ -7,7 +7,7 @@ const SvgYua = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#yua_svg__a)">
-      <Path fill="#eee" d="M144 0h223l33 256-33 256H144l-32-256z" />
+      <Path fill="#fff" d="M144 0h223l33 256-33 256H144l-32-256z" />
       <Path fill="#496e2d" d="M0 0h144v512H0z" />
       <Path fill="#d80027" d="M368 0h144v512H368z" />
       <Path fill="#ffda44" d="M256 277v10h12l10-22z" />

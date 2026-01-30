@@ -8,12 +8,12 @@ const SvgPm = (props: SvgProps) => (
     </Mask>
     <G mask="url(#pm_svg__a)">
       <Path fill="#338af3" d="M160 0h352v512H160l-32-256z" />
-      <Path fill="#eee" d="m0 160 80-32 80 32v192l-80 32-80-32z" />
+      <Path fill="#fff" d="m0 160 80-32 80 32v192l-80 32-80-32z" />
       <Rect width={160} height={160} fill="#d80027" ry={0} />
       <Path fill="#6da544" d="M160 21V0h-20L0 139v21h20z" />
       <Path fill="#6da544" d="M0 21V0h20l140 139v21h-20z" />
-      <Path fill="#eee" d="M0 64h160v32H0z" />
-      <Path fill="#eee" d="M64 0h32v160H64z" />
+      <Path fill="#fff" d="M0 64h160v32H0z" />
+      <Path fill="#fff" d="M64 0h32v160H64z" />
       <Path fill="#d80027" d="M0 512h160V352H0z" />
       <Path
         fill="#ffda44"

@@ -8,7 +8,7 @@ const SvgKa = (props: SvgProps) => (
     </Mask>
     <G mask="url(#ka_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h224l32 32 32-32h224v224l-32 32 32 32v224H288l-32-32-32 32H0V288l32-32-32-32Z"
       />
       <Path

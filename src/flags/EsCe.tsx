@@ -8,7 +8,7 @@ const SvgEsCe = (props: SvgProps) => (
     </Mask>
     <G mask="url(#es-ce_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 0 140.5 27.8L256 0h256l-26.3 132.8L512 256v256l-138.7-30.5L256 512H0l30-139.9L0 256z"
       />
       <Path
@@ -24,7 +24,7 @@ const SvgEsCe = (props: SvgProps) => (
         d="M256 389.6c-49.1 0-89-40-89-89v-89.1l33.3-33.4h111.4l33.3 33.4v89a89 89 0 0 1-89 89z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M256 356.2c-30.7 0-55.7-25-55.7-55.7v-89h111.4v89c0 30.7-25 55.7-55.7 55.7z"
       />
       <Path

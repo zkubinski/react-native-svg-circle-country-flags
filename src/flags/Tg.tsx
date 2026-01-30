@@ -18,7 +18,7 @@ const SvgTg = (props: SvgProps) => (
       />
       <Path fill="#d80027" d="M256 307.2V0H0v307.2z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m141.4 122.4 16.5 51h53.7L168 205l16.6 51-43.4-31.5L98 256l16.5-51L71 173.5h53.7z"
       />
     </G>

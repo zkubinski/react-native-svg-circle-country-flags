@@ -13,17 +13,17 @@ const SvgEsMx = (props: SvgProps) => (
       <Rect width={32} height={16} x={120} y={208} fill="#ff9811" ry={8} />
       <Rect width={32} height={16} x={120} y={304} fill="#ff9811" rx={8} />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M208 264a48 32 0 0 0-48 32 48 32 0 0 0 27.2 28.8L240 272a48 32 0 0 0-32-8z"
       />
       <Path d="M122 252h172m-172 24h28m116 0h28" />
-      <Path fill="#eee" d="M128 224v80h16v-80h-16zm144 0v16l16-16h-16z" />
+      <Path fill="#fff" d="M128 224v80h16v-80h-16zm144 0v16l16-16h-16z" />
       <Path
         fill="#d80027"
         d="M122 272a4 4 0 0 0-4 4 4 4 0 0 0 4 4h28a4 4 0 0 0 4-4 4 4 0 0 0-4-4z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M196 168c-7 0-13 5-15 11l-5-1c-9 0-16 7-16 16s7 16 16 16c7 0 13-4 15-11a16 16 0 0 0 17-4 16 16 0 0 0 17 4 16 16 0 1 0 10-20 16 16 0 0 0-27-5c-3-4-7-6-12-6zm0 8c5 0 8 4 8 8 0 5-3 8-8 8-4 0-8-3-8-8 0-4 4-8 8-8zm24 0c5 0 8 4 8 8 0 5-3 8-8 8-4 0-8-3-8-8 0-4 4-8 8-8zm-44 10 4 1 4 8c0 4-4 7-8 7s-8-3-8-8c0-4 4-8 8-8zm64 0c5 0 8 4 8 8 0 5-3 8-8 8-4 0-8-3-8-7l4-8z"
       />
       <Path fill="none" d="M220 284v12c0 7 5 12 12 12s12-5 12-12v-12z" />
@@ -36,7 +36,7 @@ const SvgEsMx = (props: SvgProps) => (
         fill="#d80027"
         d="M122 248a4 4 0 0 0-4 4 4 4 0 0 0 4 4h134l8-8H122z"
       />
-      <Path fill="#eee" d="M208 224v48h32l16-16v-32h-48z" />
+      <Path fill="#fff" d="M208 224v48h32l16-16v-32h-48z" />
       <Rect
         width={20}
         height={32}
@@ -57,7 +57,7 @@ const SvgEsMx = (props: SvgProps) => (
       </G>
       <Rect width={32} height={16} x={120} y={320} fill="#338af3" ry={8} />
       <Path fill="#d80027" d="M0 384v128l128-128ZM0 0v128h384L512 0Z" />
-      <Path fill="#eee" d="m368 512 32-184-32-184.5-224 224-32 72.5 32 72z" />
+      <Path fill="#fff" d="m368 512 32-184-32-184.5-224 224-32 72.5 32 72z" />
       <Path fill="#d80027" d="M511.5 0 368 143.5V512h143.5z" />
       <Path fill="#496e2d" d="M144 367.5 0 511.5v.5h144z" />
       <Path fill="#ffda44" d="M256 277v10h12l10-22z" />

@@ -11,7 +11,7 @@ const SvgPe = (props: SvgProps) => (
         fill="#d80027"
         d="M0 0h167l86 41.2L345 0h167v512H345l-87.9-41.4L167 512H0z"
       />
-      <Path fill="#eee" d="M167 0h178v512H167z" />
+      <Path fill="#fff" d="M167 0h178v512H167z" />
     </G>
   </Svg>
 );

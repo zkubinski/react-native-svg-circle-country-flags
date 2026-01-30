@@ -14,7 +14,7 @@ const SvgPtBr = (props: SvgProps) => (
         d="m319 193-95 31-31 95a89 89 0 0 0 136-12l14-34a89 89 0 0 0-24-80z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M255 257c29 9 55 26 74 50 7-10 12-22 14-34-17-18-38-32-62-42l-57-7Z"
       />
       <Path fill="#fff" d="M0 512 512 0H0Z" />
@@ -26,7 +26,7 @@ const SvgPtBr = (props: SvgProps) => (
       />
       <Path fill="#d80027" d="M117 212v55a50 50 0 1 0 100 0v-56H117Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M167 284c-9 0-17-8-17-17v-22h34v22c0 9-8 17-17 17z"
       />
     </G>

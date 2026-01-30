@@ -9,7 +9,7 @@ const SvgCnXj = (props: SvgProps) => (
     <G mask="url(#cn-xj_svg__a)">
       <Path fill="#338af3" d="M0 0h512v512H0Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m312 256 116-38-72 99V195l72 99zm8 69a128 128 0 1 1 0-137 102 102 0 1 0 0 137z"
       />
     </G>

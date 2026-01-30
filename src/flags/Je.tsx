@@ -8,7 +8,7 @@ const SvgJe = (props: SvgProps) => (
     </Mask>
     <G mask="url(#je_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 47.1 47 0h417.8L512 47.2v417.7L464.9 512H47L0 464.9z"
       />
       <Path

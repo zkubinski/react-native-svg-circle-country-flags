@@ -12,7 +12,7 @@ const SvgEt = (props: SvgProps) => (
         d="m0 167 254.6-36.6L512 166.9v178l-254.6 36.4L0 344.9z"
       />
       <Path fill="#0052b4" d="M0 0h512v166.9H0z" />
-      <Path fill="#eee" d="M0 344.9h512V512H0z" />
+      <Path fill="#fff" d="M0 344.9h512V512H0z" />
     </G>
   </Svg>
 );

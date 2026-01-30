@@ -7,7 +7,7 @@ const SvgUdm = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#udm_svg__a)">
-      <Path fill="#eee" d="M160 0h192l32 256-32 256H160l-32-256Z" />
+      <Path fill="#fff" d="M160 0h192l32 256-32 256H160l-32-256Z" />
       <Path fill="#333" d="M0 0h160v512H0Z" />
       <Path
         fill="#d80027"

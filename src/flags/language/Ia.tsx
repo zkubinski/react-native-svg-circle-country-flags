@@ -10,7 +10,7 @@ const SvgIa = (props: SvgProps) => (
       <Path fill="#0052b4" d="M0 0h512v256H0z" />
       <Path fill="#d80027" d="M0 256h512v256H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m256 0 48 208 208 48-208 48-48 208-48-208L0 256l208-48Z"
       />
     </G>

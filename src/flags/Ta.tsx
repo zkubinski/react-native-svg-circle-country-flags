@@ -9,7 +9,7 @@ const SvgTa = (props: SvgProps) => (
     <G mask="url(#ta_svg__a)">
       <Path fill="#0052b4" d="M256 0h256v512H0V256Z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0v32l32 32L0 96v160h32l32-32 32 32h32v-83l83 83h45l-8-16 8-15v-14l-83-83h83V96l-32-32 32-32V0H96L64 32 32 0Z"
       />
       <Path
@@ -17,7 +17,7 @@ const SvgTa = (props: SvgProps) => (
         d="M32 0v32H0v64h32v160h64V96h160V32H96V0Zm96 128 128 128v-31l-97-97z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M288 288v32h32v8h96v-8h32v-32h-32v8h-96v-8zm32-144 48-80 48 80z"
       />
       <Circle cx={368} cy={144} r={48} fill="#338af3" />
@@ -41,7 +41,7 @@ const SvgTa = (props: SvgProps) => (
         ry={16}
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M320 192v29c0 36 48 48 48 48s48-12 48-48v-29zm48-48-16 48h32z"
       />
       <Path fill="#338af3" d="m352 192 16 48 16-48z" />

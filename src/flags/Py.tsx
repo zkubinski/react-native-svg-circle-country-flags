@@ -8,7 +8,7 @@ const SvgPy = (props: SvgProps) => (
     </Mask>
     <G mask="url(#py_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 144.7 255.3-36.5L512 144.7v222.6L250.5 407 0 367.3z"
       />
       <Path fill="#d80027" d="M0 0h512v144.7H0z" />

@@ -8,10 +8,10 @@ const SvgSk = (props: SvgProps) => (
     </Mask>
     <G mask="url(#sk_svg__a)">
       <Path fill="#0052b4" d="m0 160 256-32 256 32v192l-256 32L0 352z" />
-      <Path fill="#eee" d="M0 0h512v160H0z" />
+      <Path fill="#fff" d="M0 0h512v160H0z" />
       <Path fill="#d80027" d="M0 352h512v160H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M64 63v217c0 104 144 137 144 137s144-33 144-137V63z"
       />
       <Path
@@ -19,7 +19,7 @@ const SvgSk = (props: SvgProps) => (
         d="M96 95v185a83 78 0 0 0 9 34h206a83 77 0 0 0 9-34V95z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M288 224h-64v-32h32v-32h-32v-32h-32v32h-32v32h32v32h-64v32h64v32h32v-32h64z"
       />
       <Path

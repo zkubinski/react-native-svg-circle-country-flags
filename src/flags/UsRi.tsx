@@ -7,7 +7,7 @@ const SvgUsRi = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#us-ri_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0z" />
+      <Path fill="#fff" d="M0 0h512v512H0z" />
       <Path
         fill="#0052b4"
         d="M204 296v16h-40v32h40v-16h104v16h40v-32h-40v-16z"

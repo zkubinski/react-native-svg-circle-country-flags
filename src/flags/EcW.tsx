@@ -8,7 +8,7 @@ const SvgEcW = (props: SvgProps) => (
     </Mask>
     <G mask="url(#ec-w_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 167 254.6-36.6L512 166.9v178l-254.6 36.4L0 344.9z"
       />
       <Path fill="#6da544" d="M0 0h512v166.9H0z" />

@@ -7,7 +7,7 @@ const SvgTz = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#tz_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0z" />
+      <Path fill="#fff" d="M0 0h512v512H0z" />
       <Path
         fill="#ffda44"
         d="M399 0 167 167 0 399v45l68 68h45l232-167 167-232V68L444 0Z"

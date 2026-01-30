@@ -8,7 +8,7 @@ const SvgEsCn = (props: SvgProps) => (
     </Mask>
     <G mask="url(#es-cn_svg__a)">
       <Path fill="#338af3" d="M167 0h178l32.3 257L345 512H167l-25.3-256z" />
-      <Path fill="#eee" d="M0 0h166.9v512H0z" />
+      <Path fill="#fff" d="M0 0h166.9v512H0z" />
       <Path fill="#ffda44" d="M344.9 0H512v512H344.9z" />
     </G>
   </Svg>

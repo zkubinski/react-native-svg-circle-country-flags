@@ -11,7 +11,7 @@ const SvgKw = (props: SvgProps) => (
         fill="#333"
         d="M0 0h208l48 32 48-32h208v208l-32 48 32 48v208H304l-48-32-48 32H0V304l32-48-32-48Z"
       />
-      <Path fill="#eee" d="M208 0v208H0v96h208v208h96V304h208v-96H304V0h-96z" />
+      <Path fill="#fff" d="M208 0v208H0v96h208v208h96V304h208v-96H304V0h-96z" />
     </G>
   </Svg>
 );

@@ -7,7 +7,7 @@ const SvgEtOr = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#et-or_svg__a)">
-      <Path fill="#eee" d="m0 160 256-32 256 32v192l-256 32L0 352Z" />
+      <Path fill="#fff" d="m0 160 256-32 256 32v192l-256 32L0 352Z" />
       <Path fill="#d80027" d="M0 0h512v160H0Z" />
       <Path fill="#333" d="M0 352h512v160H0Z" />
       <Path fill="#6da544" d="M233 294c0 25-26 42-26 42h98s-26-17-26-42z" />

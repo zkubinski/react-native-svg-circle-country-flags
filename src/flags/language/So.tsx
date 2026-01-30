@@ -9,7 +9,7 @@ const SvgSo = (props: SvgProps) => (
     <G mask="url(#so_svg__a)">
       <Path fill="#338af3" d="M0 0h512v512H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m256 133.6 27.6 85H373L300.7 271l27.6 85-72.3-52.5-72.3 52.6 27.6-85-72.3-52.6h89.4z"
       />
     </G>

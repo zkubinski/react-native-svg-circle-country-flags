@@ -9,7 +9,7 @@ const SvgAq = (props: SvgProps) => (
     <G mask="url(#aq_svg__a)">
       <Path fill="#338af3" d="M0 0h512v512H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m135 343-41-70 17-38-40-51-9-37 74 51 45-11 19-67 50-29 75 11 87 45 4 74 28 10v76l-53 94-64 20-59-14 15-25-7-26-8 7z"
       />
     </G>

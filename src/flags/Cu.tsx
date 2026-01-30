@@ -13,12 +13,12 @@ const SvgCu = (props: SvgProps) => (
       />
       <Path fill="#ff9811" d="M0 44.5v423V256z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M27.2 102.4v102.4H512V102.4H27.2zm0 204.8v102.4H512V307.2H27.2z"
       />
       <Path fill="#d80027" d="M0 0v512l256-256L0 0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m103.6 189.2 16.6 51h53.6l-43.4 31.6 16.6 51-43.4-31.5-43.4 31.5 16.6-51-43.4-31.6H87z"
       />
     </G>

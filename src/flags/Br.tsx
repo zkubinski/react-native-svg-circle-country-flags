@@ -10,7 +10,7 @@ const SvgBr = (props: SvgProps) => (
       <Path fill="#6da544" d="M0 0h512v512H0z" />
       <Path fill="#ffda44" d="M256 100.2 467.5 256 256 411.8 44.5 256z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M174.2 221a87 87 0 0 0-7.2 36.3l162 49.8a88.5 88.5 0 0 0 14.4-34c-40.6-65.3-119.7-80.3-169.1-52z"
       />
       <Path

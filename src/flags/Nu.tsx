@@ -9,7 +9,7 @@ const SvgNu = (props: SvgProps) => (
     <G mask="url(#nu_svg__a)">
       <Path fill="#ffda44" d="M0 256 256 0h256v512H0z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0v32l32 32L0 96v160h32l32-32 32 32h32l42-16 41 16h45l-8-16 8-15v-14l-16-42 16-41V96l-32-32 32-32V0H96L64 32 32 0Z"
       />
       <Path fill="#0052b4" d="M128 256v-83l83 83zm128-45-83-83h83z" />

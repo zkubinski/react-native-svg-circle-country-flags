@@ -11,7 +11,7 @@ const SvgNf = (props: SvgProps) => (
         fill="#6da544"
         d="M0 0h144.7l108.4 41.2L367.3 0H512v512H367.3l-110.2-41.4L144.7 512H0z"
       />
-      <Path fill="#eee" d="M144.7 0h222.6v512H144.7z" />
+      <Path fill="#fff" d="M144.7 0h222.6v512H144.7z" />
       <Path
         fill="#6da544"
         d="m323 334-67-211.6L189.3 334h50.1v55.7h33.4V334z"

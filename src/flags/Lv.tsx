@@ -11,7 +11,7 @@ const SvgLv = (props: SvgProps) => (
         fill="#a2001d"
         d="M0 0h512v189.2l-38.5 70 38.5 63.6V512H0V322.8l39.4-63L0 189.1z"
       />
-      <Path fill="#eee" d="M0 189.2h512v133.6H0z" />
+      <Path fill="#fff" d="M0 189.2h512v133.6H0z" />
     </G>
   </Svg>
 );

@@ -9,7 +9,7 @@ const SvgBm = (props: SvgProps) => (
     <G mask="url(#bm_svg__a)">
       <Path fill="#d80027" d="M256 0h256v512H0V256z" />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h33.4l31.8 16.4 35-16.4H256v133.6l-9.3 33.7 9.3 41.5V256h-47.2l-39.3-7-35.9 7.1L0 256V100.2l15.4-34.5L0 33.4z"
       />
       <Path fill="#496e2d" d="M445.2 256.1zm-155.8 0z" />
@@ -22,7 +22,7 @@ const SvgBm = (props: SvgProps) => (
         fill="#0052b4"
         d="M180.8 133.6H256v75.2zm-47.2 47.2v75.3l75.2-.1z"
       />
-      <Path fill="#eee" d="M289.4 133.6V256c0 59.6 155.8 59.6 155.8 0V133.6z" />
+      <Path fill="#fff" d="M289.4 133.6V256c0 59.6 155.8 59.6 155.8 0V133.6z" />
       <Path
         fill="#6da544"
         d="M289.4 256c0 59.6 77.9 78 77.9 78s78-18.4 78-78h-156z"

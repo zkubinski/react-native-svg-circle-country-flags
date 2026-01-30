@@ -8,7 +8,7 @@ const SvgCq = (props: SvgProps) => (
     </Mask>
     <G mask="url(#cq_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M304 0h208v208l-32 48 32 48v208H304l-48-32-48 32H0V304Z"
       />
       <Path fill="#d80027" d="M0 0v304h208v208h96V304h208v-96H304V0Z" />

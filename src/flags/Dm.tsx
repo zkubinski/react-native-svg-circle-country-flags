@@ -15,8 +15,8 @@ const SvgDm = (props: SvgProps) => (
       <Path fill="#ffda44" d="M512 208v32H0v-32z" />
       <Path fill="#333" d="M240 0h32l32 256-32 256h-32l-32-256Z" />
       <Path fill="#ffda44" d="M208 0h32v512h-32z" />
-      <Path fill="#eee" d="M272 0h32v512h-32z" />
-      <Path fill="#eee" d="M512 272v32H0v-32z" />
+      <Path fill="#fff" d="M272 0h32v512h-32z" />
+      <Path fill="#fff" d="M512 272v32H0v-32z" />
       <Circle cx={256} cy={256} r={122.4} fill="#d80027" />
       <Path
         fill="#496e2d"

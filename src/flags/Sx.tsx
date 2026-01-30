@@ -9,7 +9,7 @@ const SvgSx = (props: SvgProps) => (
     <G mask="url(#sx_svg__a)">
       <Path fill="#d80027" d="M0 0h512v256l-265 45.2z" />
       <Path fill="#0052b4" d="M210 256h302v256H0z" />
-      <Path fill="#eee" d="M0 0v512l256-256z" />
+      <Path fill="#fff" d="M0 0v512l256-256z" />
       <G fill="#ffda44">
         <Path d="M28 256a73.1 73.1 0 0 0-.2 5.6 72.3 72.3 0 1 0 144.5-5.6z" />
         <Circle cx={100.2} cy={200.3} r={22.3} />
@@ -23,7 +23,7 @@ const SvgSx = (props: SvgProps) => (
         d="M100.2 294c-9.3-3.4-28-12-28-27v-50H128v50c0 15-18.6 23.6-27.8 26.9z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M111.3 244.9v-11.2l-11.1-5.5-11.2 5.5V245l-5.5 5.5v22.3h33.4v-22.3z"
       />
     </G>

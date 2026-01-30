@@ -17,7 +17,7 @@ const SvgIt88 = (props: SvgProps) => (
     </Defs>
     <G mask="url(#it-88_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h222.6l31 23.4L289.4 0H512v222.6l-21.5 31 21.5 35.8V512H289.4l-34.2-20.5-32.6 20.5H0V289.4l22.7-32.6L0 222.6V0Z"
       />
       <Path

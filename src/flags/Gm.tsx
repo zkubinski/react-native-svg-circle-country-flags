@@ -8,7 +8,7 @@ const SvgGm = (props: SvgProps) => (
     </Mask>
     <G mask="url(#gm_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m0 155.8 255-30.6 257 30.6v33.4l-27.7 67.2 27.7 66.4v33.4l-256 32.4L0 356.2v-33.4l28.8-68.5L0 189.2z"
       />
       <Path fill="#a2001d" d="M0 0h512v155.8H0z" />

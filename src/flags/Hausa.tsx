@@ -7,7 +7,7 @@ const SvgHausa = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#hausa_svg__a)">
-      <Path fill="#eee" d="M0 0h512v512H0z" />
+      <Path fill="#fff" d="M0 0h512v512H0z" />
       <Path
         fill="#6da544"
         d="m218 154 38-84 38 84-140 140-84-38 84-38 140 140-38 84-38-84 140-140 84 38-84 38z"

@@ -9,7 +9,7 @@ const SvgDj = (props: SvgProps) => (
     <G mask="url(#dj_svg__a)">
       <Path fill="#338af3" d="M0 0h512v256l-153.2 35.7L210 256z" />
       <Path fill="#6da544" d="M210 256h302v256H0z" />
-      <Path fill="#eee" d="M0 0v512l256-256z" />
+      <Path fill="#fff" d="M0 0v512l256-256z" />
       <Path
         fill="#d80027"
         d="m103.6 189.2 16.6 51h53.6l-43.4 31.6 16.6 51-43.4-31.5-43.4 31.5 16.6-51-43.4-31.6H87z"

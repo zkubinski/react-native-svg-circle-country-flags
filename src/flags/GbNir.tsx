@@ -8,7 +8,7 @@ const SvgGbNir = (props: SvgProps) => (
     </Mask>
     <G mask="url(#gb-nir_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 0h224l32 32 32-32h224v224l-32 32 32 32v224H288l-32-32-32 32H0V288l32-32-32-32Z"
       />
       <Path fill="#d80027" d="M224 0v224H0v64h224v224h64V288h224v-64H288V0Z" />
@@ -17,7 +17,7 @@ const SvgGbNir = (props: SvgProps) => (
         d="m256 104-44 76h-87l43 76-43 76h87l44 76 44-76h87l-43-76 43-76h-87z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="m256 131-36 62h-73l37 63-37 63h73l36 63 36-63h73l-37-63 37-63h-73l-36-62z"
       />
       <Path

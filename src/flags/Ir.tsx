@@ -8,7 +8,7 @@ const SvgIr = (props: SvgProps) => (
     </Mask>
     <G mask="url(#ir_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M0 144.7 258.8 39.6 512 144.7v222.6L257 493 0 367.3z"
       />
       <Path

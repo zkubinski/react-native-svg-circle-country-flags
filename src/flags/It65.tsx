@@ -22,7 +22,7 @@ const SvgIt65 = (props: SvgProps) => (
         d="M256 404.4S368 378.7 368 293v-77l-88 80-78 86c27.3 16.3 54 22.4 54 22.4Z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M144 152v141a97 97 0 0 0 1.6 17.4L224 240l80-88H144Z"
       />
       <Path

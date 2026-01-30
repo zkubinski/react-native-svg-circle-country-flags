@@ -7,7 +7,7 @@ const SvgWiphala = (props: SvgProps) => (
       <Circle cx={256} cy={256} r={256} fill="#fff" />
     </Mask>
     <G mask="url(#wiphala_svg__a)">
-      <Path fill="#eee" d="M0 73V0h73l439 439v73h-73Z" />
+      <Path fill="#fff" d="M0 73V0h73l439 439v73h-73Z" />
       <Path
         fill="#ffda44"
         d="M73 0v73h73v73h73v73h74v74h73v73h73v73h73v-73l-73-73-73-73v-1l-73-73-74-73-73-73H73z"

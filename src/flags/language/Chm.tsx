@@ -8,7 +8,7 @@ const SvgChm = (props: SvgProps) => (
     </Mask>
     <G mask="url(#chm_svg__a)">
       <Path fill="#0052b4" d="M512 170v172l-256 32L0 342V170l256-32z" />
-      <Path fill="#eee" d="M512 0v170H0V0Z" />
+      <Path fill="#fff" d="M512 0v170H0V0Z" />
       <Path fill="#d80027" d="M512 342v170H0V342Z" />
     </G>
   </Svg>

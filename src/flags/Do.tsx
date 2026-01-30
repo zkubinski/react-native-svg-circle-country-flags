@@ -16,7 +16,7 @@ const SvgDo = (props: SvgProps) => (
         d="M479.5 256h-444L0 189.2V0h189.2L256 31.8v444.6l66.8 35.6H512V322.8z"
       />
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M189.2 0h133.6v189.2H512v133.6H322.8V512H189.2V322.8H0V189.2h189.2z"
       />
       <Path

@@ -8,7 +8,7 @@ const SvgBq = (props: SvgProps) => (
     </Mask>
     <G mask="url(#bq_svg__a)">
       <Path
-        fill="#eee"
+        fill="#fff"
         d="M113.7 119.8 276 0h236v31.7L306 289.5 31.6 512H0V276z"
       />
       <Path fill="#ffda44" d="M0 0v276L276 0H0z" />
