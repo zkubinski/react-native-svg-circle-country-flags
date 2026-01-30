@@ -22,8 +22,9 @@ export const Flag = ({ code, size = 24, ...props }: FlagProps) => {
   const upperCode = code.toUpperCase();
 
   // Check special mappings first
-  if (SPECIAL_CODE_MAP[upperCode]) {
-    const FlagComponent = Flags[SPECIAL_CODE_MAP[upperCode]] as React.FC<SvgProps>;
+  const specialKey = SPECIAL_CODE_MAP[upperCode];
+  if (specialKey) {
+    const FlagComponent = Flags[specialKey] as React.FC<SvgProps>;
     return <FlagComponent width={size} height={size} {...props} />;
   }
 
