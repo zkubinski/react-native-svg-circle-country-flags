@@ -40,7 +40,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/lukaszkurantdev/react-native-svg-circle-country-flags",
+  "repository": "https://github.com/zkubinski/react-native-svg-circle-country-flags",
   "author": "Lukasz Kurant <contact@lukaszkurant.com> (https://lukaszkurant.com)",
   "license": "MIT",
   "bugs": {
@@ -85,8 +85,7 @@
   "engines": {
     "node": ">= 16.0.0"
   },
-  "packageManager": "^yarn@1.22.15",
-  "jest": {
+    "jest": {
     "preset": "react-native",
     "modulePathIgnorePatterns": [
       "<rootDir>/example/node_modules",
